@@ -1,0 +1,25 @@
+{
+  "name": "esbuild-plugin-filter-callback",
+  "version": "0.1.0",
+  "license": "ISC",
+  "author": "Alexis Royer <https://github.com/alxroyer>",
+  "description": "Define filter with a callback for a final esbuild plugin.",
+  "keywords": [
+    "esbuild",
+    "plugin",
+    "filter",
+    "callback"
+  ],
+  "homepage": "https://github.com/alxroyer/esbuild-plugin-filter-callback#readme",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/alxroyer/esbuild-plugin-filter-callback.git"
+  },
+  "bugs": {
+    "url": "https://github.com/alxroyer/esbuild-plugin-filter-callback/issues"
+  },
+  "main": "src/esbuild-plugin-filter-callback.cjs",
+  "devDependencies": {
+    "esbuild": "^0.16.17"
+  }
+}
