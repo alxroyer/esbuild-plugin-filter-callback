@@ -5,10 +5,11 @@
   "author": "Alexis Royer <https://github.com/alxroyer>",
   "description": "Define filter with a callback for a final esbuild plugin.",
   "keywords": [
+    "callback",
     "esbuild",
-    "plugin",
     "filter",
-    "callback"
+    "plugin",
+    "regex"
   ],
   "homepage": "https://github.com/alxroyer/esbuild-plugin-filter-callback#readme",
   "repository": {
